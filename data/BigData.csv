@@ -1,0 +1,904 @@
+ID_INTERESADOS,ID_PAIS,ID_REGION,ID_TEMA,PAIS,REGION,TEMA
+1,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+2,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+3,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+4,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+5,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+6,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+7,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+8,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+9,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+10,21,28,1,Mexico,Tamaulipas,Aficiones y tiempo libre
+11,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+12,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+13,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+14,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+15,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+16,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+17,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+18,21,24,1,Mexico,San Luis Potosi,Aficiones y tiempo libre
+19,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+20,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+21,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+22,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+23,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+24,21,31,1,Mexico,Yucatan,Aficiones y tiempo libre
+25,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+26,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+27,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+28,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+29,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+30,21,8,1,Mexico,Coahuila de Zaragoza,Aficiones y tiempo libre
+31,21,1,1,Mexico,Aguascalientes,Aficiones y tiempo libre
+32,21,1,1,Mexico,Aguascalientes,Aficiones y tiempo libre
+33,21,1,1,Mexico,Aguascalientes,Aficiones y tiempo libre
+34,21,1,1,Mexico,Aguascalientes,Aficiones y tiempo libre
+35,21,1,1,Mexico,Aguascalientes,Aficiones y tiempo libre
+36,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+37,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+38,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+39,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+40,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+41,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+42,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+43,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+44,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+45,21,4,2,Mexico,Campeche,Alimentacion y bebidas
+46,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+47,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+48,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+49,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+50,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+51,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+52,21,27,2,Mexico,Tabasco,Alimentacion y bebidas
+53,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+54,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+55,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+56,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+57,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+58,21,1,2,Mexico,Aguascalientes,Alimentacion y bebidas
+59,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+60,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+61,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+62,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+63,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+64,21,24,2,Mexico,San Luis Potosi,Alimentacion y bebidas
+65,21,9,2,Mexico,Colima,Alimentacion y bebidas
+66,21,9,2,Mexico,Colima,Alimentacion y bebidas
+67,21,9,2,Mexico,Colima,Alimentacion y bebidas
+68,21,9,2,Mexico,Colima,Alimentacion y bebidas
+69,21,9,2,Mexico,Colima,Alimentacion y bebidas
+70,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+71,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+72,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+73,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+74,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+75,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+76,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+77,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+78,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+79,21,32,3,Mexico,Zacatecas,Animales y Mascotas
+80,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+81,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+82,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+83,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+84,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+85,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+86,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+87,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+88,21,1,3,Mexico,Aguascalientes,Animales y Mascotas
+89,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+100,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+101,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+102,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+103,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+104,21,23,3,Mexico,Quintana Roo,Animales y Mascotas
+105,21,27,3,Mexico,Tabasco,Animales y Mascotas
+106,21,27,3,Mexico,Tabasco,Animales y Mascotas
+107,21,27,3,Mexico,Tabasco,Animales y Mascotas
+108,21,27,3,Mexico,Tabasco,Animales y Mascotas
+109,21,27,3,Mexico,Tabasco,Animales y Mascotas
+110,21,4,3,Mexico,Campeche,Animales y Mascotas
+111,21,4,3,Mexico,Campeche,Animales y Mascotas
+112,21,4,3,Mexico,Campeche,Animales y Mascotas
+113,21,4,3,Mexico,Campeche,Animales y Mascotas
+114,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+115,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+116,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+117,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+118,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+119,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+120,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+121,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+122,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+123,21,28,4,Mexico,Tamaulipas,Arte y entretenimiento
+124,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+125,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+126,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+127,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+128,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+129,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+130,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+131,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+132,21,24,4,Mexico,San Luis Potosi,Arte y entretenimiento
+133,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+134,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+135,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+136,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+137,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+138,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+139,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+140,21,8,4,Mexico,Coahuila de Zaragoza,Arte y entretenimiento
+141,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+142,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+143,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+144,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+145,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+146,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+147,21,31,4,Mexico,Yucatan,Arte y entretenimiento
+148,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+149,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+150,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+151,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+152,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+153,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+154,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+155,21,32,4,Mexico,Zacatecas,Arte y entretenimiento
+156,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+157,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+158,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+159,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+160,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+161,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+162,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+163,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+164,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+165,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+166,21,4,5,Mexico,Campeche,Automoviles y Vehiculos
+167,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+168,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+169,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+170,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+171,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+172,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+173,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+174,21,24,5,Mexico,San Luis Potosi,Automoviles y Vehiculos
+175,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+176,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+177,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+178,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+179,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+180,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+181,21,27,5,Mexico,Tabasco,Automoviles y Vehiculos
+182,21,32,5,Mexico,Zacatecas,Automoviles y Vehiculos
+183,21,32,5,Mexico,Zacatecas,Automoviles y Vehiculos
+184,21,32,5,Mexico,Zacatecas,Automoviles y Vehiculos
+185,21,32,5,Mexico,Zacatecas,Automoviles y Vehiculos
+186,21,32,5,Mexico,Zacatecas,Automoviles y Vehiculos
+187,21,5,5,Mexico,Chiapas,Automoviles y Vehiculos
+188,21,5,5,Mexico,Chiapas,Automoviles y Vehiculos
+189,21,5,5,Mexico,Chiapas,Automoviles y Vehiculos
+190,21,5,5,Mexico,Chiapas,Automoviles y Vehiculos
+191,21,5,5,Mexico,Chiapas,Automoviles y Vehiculos
+192,21,5,6,Mexico,Chiapas,Belleza y salud
+193,21,5,6,Mexico,Chiapas,Belleza y salud
+194,21,5,6,Mexico,Chiapas,Belleza y salud
+195,21,5,6,Mexico,Chiapas,Belleza y salud
+196,21,5,6,Mexico,Chiapas,Belleza y salud
+197,21,5,6,Mexico,Chiapas,Belleza y salud
+198,21,5,6,Mexico,Chiapas,Belleza y salud
+199,21,5,6,Mexico,Chiapas,Belleza y salud
+200,21,5,6,Mexico,Chiapas,Belleza y salud
+201,21,5,6,Mexico,Chiapas,Belleza y salud
+202,21,27,6,Mexico,Tabasco,Belleza y salud
+203,21,27,6,Mexico,Tabasco,Belleza y salud
+204,21,27,6,Mexico,Tabasco,Belleza y salud
+205,21,27,6,Mexico,Tabasco,Belleza y salud
+206,21,27,6,Mexico,Tabasco,Belleza y salud
+207,21,27,6,Mexico,Tabasco,Belleza y salud
+208,21,27,6,Mexico,Tabasco,Belleza y salud
+209,21,27,6,Mexico,Tabasco,Belleza y salud
+210,21,27,6,Mexico,Tabasco,Belleza y salud
+211,21,32,6,Mexico,Zacatecas,Belleza y salud
+212,21,32,6,Mexico,Zacatecas,Belleza y salud
+213,21,32,6,Mexico,Zacatecas,Belleza y salud
+214,21,32,6,Mexico,Zacatecas,Belleza y salud
+215,21,32,6,Mexico,Zacatecas,Belleza y salud
+216,21,32,6,Mexico,Zacatecas,Belleza y salud
+217,21,32,6,Mexico,Zacatecas,Belleza y salud
+218,21,13,6,Mexico,Guerrero,Belleza y salud
+219,21,13,6,Mexico,Guerrero,Belleza y salud
+220,21,13,6,Mexico,Guerrero,Belleza y salud
+221,21,13,6,Mexico,Guerrero,Belleza y salud
+222,21,13,6,Mexico,Guerrero,Belleza y salud
+223,21,13,6,Mexico,Guerrero,Belleza y salud
+224,21,18,6,Mexico,Nayarit,Belleza y salud
+225,21,18,6,Mexico,Nayarit,Belleza y salud
+226,21,18,6,Mexico,Nayarit,Belleza y salud
+227,21,18,6,Mexico,Nayarit,Belleza y salud
+228,21,4,7,Mexico,Campeche,Casa y Jardin
+229,21,4,7,Mexico,Campeche,Casa y Jardin
+230,21,4,7,Mexico,Campeche,Casa y Jardin
+231,21,4,7,Mexico,Campeche,Casa y Jardin
+232,21,4,7,Mexico,Campeche,Casa y Jardin
+233,21,4,7,Mexico,Campeche,Casa y Jardin
+234,21,4,7,Mexico,Campeche,Casa y Jardin
+235,21,4,7,Mexico,Campeche,Casa y Jardin
+236,21,4,7,Mexico,Campeche,Casa y Jardin
+237,21,4,7,Mexico,Campeche,Casa y Jardin
+238,21,32,7,Mexico,Zacatecas,Casa y Jardin
+239,21,32,7,Mexico,Zacatecas,Casa y Jardin
+240,21,32,7,Mexico,Zacatecas,Casa y Jardin
+241,21,32,7,Mexico,Zacatecas,Casa y Jardin
+242,21,32,7,Mexico,Zacatecas,Casa y Jardin
+243,21,32,7,Mexico,Zacatecas,Casa y Jardin
+244,21,32,7,Mexico,Zacatecas,Casa y Jardin
+245,21,32,7,Mexico,Zacatecas,Casa y Jardin
+246,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+247,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+248,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+249,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+250,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+251,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+252,21,8,7,Mexico,Coahuila de Zaragoza,Casa y Jardin
+253,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+254,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+255,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+256,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+257,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+258,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+259,21,24,7,Mexico,San Luis Potosi,Casa y Jardin
+260,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+261,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+262,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+263,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+264,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+265,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+266,21,28,7,Mexico,Tamaulipas,Casa y Jardin
+267,21,4,8,Mexico,Campeche,Ciencias
+268,21,4,8,Mexico,Campeche,Ciencias
+269,21,4,8,Mexico,Campeche,Ciencias
+270,21,4,8,Mexico,Campeche,Ciencias
+271,21,4,8,Mexico,Campeche,Ciencias
+272,21,4,8,Mexico,Campeche,Ciencias
+273,21,4,8,Mexico,Campeche,Ciencias
+274,21,4,8,Mexico,Campeche,Ciencias
+275,21,4,8,Mexico,Campeche,Ciencias
+276,21,4,8,Mexico,Campeche,Ciencias
+277,21,18,8,Mexico,Nayarit,Ciencias
+278,21,18,8,Mexico,Nayarit,Ciencias
+279,21,18,8,Mexico,Nayarit,Ciencias
+280,21,18,8,Mexico,Nayarit,Ciencias
+281,21,18,8,Mexico,Nayarit,Ciencias
+282,21,18,8,Mexico,Nayarit,Ciencias
+283,21,18,8,Mexico,Nayarit,Ciencias
+284,21,18,8,Mexico,Nayarit,Ciencias
+285,21,22,8,Mexico,Queretaro,Ciencias
+286,21,22,8,Mexico,Queretaro,Ciencias
+287,21,22,8,Mexico,Queretaro,Ciencias
+288,21,22,8,Mexico,Queretaro,Ciencias
+289,21,22,8,Mexico,Queretaro,Ciencias
+290,21,22,8,Mexico,Queretaro,Ciencias
+291,21,27,8,Mexico,Tabasco,Ciencias
+292,21,27,8,Mexico,Tabasco,Ciencias
+293,21,27,8,Mexico,Tabasco,Ciencias
+294,21,27,8,Mexico,Tabasco,Ciencias
+295,21,27,8,Mexico,Tabasco,Ciencias
+296,21,27,8,Mexico,Tabasco,Ciencias
+297,21,3,8,Mexico,Baja California Sur,Ciencias
+298,21,3,8,Mexico,Baja California Sur,Ciencias
+299,21,3,8,Mexico,Baja California Sur,Ciencias
+300,21,3,8,Mexico,Baja California Sur,Ciencias
+301,21,28,9,Mexico,Tamaulipas,Compras
+302,21,28,9,Mexico,Tamaulipas,Compras
+303,21,28,9,Mexico,Tamaulipas,Compras
+304,21,28,9,Mexico,Tamaulipas,Compras
+305,21,28,9,Mexico,Tamaulipas,Compras
+306,21,28,9,Mexico,Tamaulipas,Compras
+307,21,28,9,Mexico,Tamaulipas,Compras
+308,21,28,9,Mexico,Tamaulipas,Compras
+309,21,28,9,Mexico,Tamaulipas,Compras
+310,21,28,9,Mexico,Tamaulipas,Compras
+311,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+312,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+313,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+314,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+315,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+316,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+317,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+318,21,8,9,Mexico,Coahuila de Zaragoza,Compras
+319,21,24,9,Mexico,San Luis Potosi,Compras
+320,21,24,9,Mexico,San Luis Potosi,Compras
+321,21,24,9,Mexico,San Luis Potosi,Compras
+322,21,24,9,Mexico,San Luis Potosi,Compras
+323,21,24,9,Mexico,San Luis Potosi,Compras
+324,21,24,9,Mexico,San Luis Potosi,Compras
+325,21,24,9,Mexico,San Luis Potosi,Compras
+326,21,24,9,Mexico,San Luis Potosi,Compras
+327,21,26,9,Mexico,Sonora,Compras
+328,21,26,9,Mexico,Sonora,Compras
+329,21,26,9,Mexico,Sonora,Compras
+330,21,26,9,Mexico,Sonora,Compras
+331,21,26,9,Mexico,Sonora,Compras
+332,21,26,9,Mexico,Sonora,Compras
+333,21,26,9,Mexico,Sonora,Compras
+334,21,26,9,Mexico,Sonora,Compras
+335,21,1,9,Mexico,Aguascalientes,Compras
+336,21,1,9,Mexico,Aguascalientes,Compras
+337,21,1,9,Mexico,Aguascalientes,Compras
+338,21,1,9,Mexico,Aguascalientes,Compras
+339,21,1,9,Mexico,Aguascalientes,Compras
+340,21,1,9,Mexico,Aguascalientes,Compras
+341,21,1,9,Mexico,Aguascalientes,Compras
+342,21,1,9,Mexico,Aguascalientes,Compras
+343,21,24,10,Mexico,San Luis Potosi,Comunidades online
+344,21,24,10,Mexico,San Luis Potosi,Comunidades online
+345,21,24,10,Mexico,San Luis Potosi,Comunidades online
+346,21,24,10,Mexico,San Luis Potosi,Comunidades online
+347,21,24,10,Mexico,San Luis Potosi,Comunidades online
+348,21,24,10,Mexico,San Luis Potosi,Comunidades online
+349,21,24,10,Mexico,San Luis Potosi,Comunidades online
+350,21,24,10,Mexico,San Luis Potosi,Comunidades online
+351,21,24,10,Mexico,San Luis Potosi,Comunidades online
+352,21,24,10,Mexico,San Luis Potosi,Comunidades online
+353,21,1,10,Mexico,Aguascalientes,Comunidades online
+354,21,1,10,Mexico,Aguascalientes,Comunidades online
+355,21,1,10,Mexico,Aguascalientes,Comunidades online
+356,21,1,10,Mexico,Aguascalientes,Comunidades online
+357,21,1,10,Mexico,Aguascalientes,Comunidades online
+358,21,1,10,Mexico,Aguascalientes,Comunidades online
+359,21,1,10,Mexico,Aguascalientes,Comunidades online
+360,21,1,10,Mexico,Aguascalientes,Comunidades online
+361,21,27,10,Mexico,Tabasco,Comunidades online
+362,21,27,10,Mexico,Tabasco,Comunidades online
+363,21,27,10,Mexico,Tabasco,Comunidades online
+364,21,27,10,Mexico,Tabasco,Comunidades online
+365,21,27,10,Mexico,Tabasco,Comunidades online
+366,21,27,10,Mexico,Tabasco,Comunidades online
+367,21,27,10,Mexico,Tabasco,Comunidades online
+368,21,27,10,Mexico,Tabasco,Comunidades online
+369,21,18,10,Mexico,Nayarit,Comunidades online
+370,21,18,10,Mexico,Nayarit,Comunidades online
+371,21,18,10,Mexico,Nayarit,Comunidades online
+372,21,18,10,Mexico,Nayarit,Comunidades online
+373,21,18,10,Mexico,Nayarit,Comunidades online
+374,21,18,10,Mexico,Nayarit,Comunidades online
+375,21,18,10,Mexico,Nayarit,Comunidades online
+376,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+378,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+379,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+380,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+381,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+382,21,8,10,Mexico,Coahuila de Zaragoza,Comunidades online
+383,21,32,11,Mexico,Zacatecas,Deportes
+384,21,32,11,Mexico,Zacatecas,Deportes
+385,21,32,11,Mexico,Zacatecas,Deportes
+386,21,32,11,Mexico,Zacatecas,Deportes
+387,21,32,11,Mexico,Zacatecas,Deportes
+388,21,32,11,Mexico,Zacatecas,Deportes
+389,21,32,11,Mexico,Zacatecas,Deportes
+390,21,32,11,Mexico,Zacatecas,Deportes
+391,21,32,11,Mexico,Zacatecas,Deportes
+392,21,32,11,Mexico,Zacatecas,Deportes
+393,21,3,11,Mexico,Baja California Sur,Deportes
+394,21,3,11,Mexico,Baja California Sur,Deportes
+395,21,3,11,Mexico,Baja California Sur,Deportes
+396,21,3,11,Mexico,Baja California Sur,Deportes
+397,21,3,11,Mexico,Baja California Sur,Deportes
+398,21,3,11,Mexico,Baja California Sur,Deportes
+399,21,3,11,Mexico,Baja California Sur,Deportes
+400,21,3,11,Mexico,Baja California Sur,Deportes
+401,21,3,11,Mexico,Baja California Sur,Deportes
+402,21,1,11,Mexico,Aguascalientes,Deportes
+403,21,1,11,Mexico,Aguascalientes,Deportes
+404,21,1,11,Mexico,Aguascalientes,Deportes
+405,21,1,11,Mexico,Aguascalientes,Deportes
+406,21,1,11,Mexico,Aguascalientes,Deportes
+407,21,1,11,Mexico,Aguascalientes,Deportes
+408,21,1,11,Mexico,Aguascalientes,Deportes
+409,21,1,11,Mexico,Aguascalientes,Deportes
+410,21,24,11,Mexico,San Luis Potosi,Deportes
+411,21,24,11,Mexico,San Luis Potosi,Deportes
+412,21,24,11,Mexico,San Luis Potosi,Deportes
+413,21,24,11,Mexico,San Luis Potosi,Deportes
+414,21,24,11,Mexico,San Luis Potosi,Deportes
+415,21,24,11,Mexico,San Luis Potosi,Deportes
+416,21,24,11,Mexico,San Luis Potosi,Deportes
+417,21,2,11,Mexico,Baja California,Deportes
+418,21,2,11,Mexico,Baja California,Deportes
+419,21,2,11,Mexico,Baja California,Deportes
+420,21,2,11,Mexico,Baja California,Deportes
+421,21,2,11,Mexico,Baja California,Deportes
+422,21,2,11,Mexico,Baja California,Deportes
+423,21,4,12,Mexico,Campeche,Empleo y educacion
+424,21,4,12,Mexico,Campeche,Empleo y educacion
+425,21,4,12,Mexico,Campeche,Empleo y educacion
+426,21,4,12,Mexico,Campeche,Empleo y educacion
+427,21,4,12,Mexico,Campeche,Empleo y educacion
+428,21,4,12,Mexico,Campeche,Empleo y educacion
+429,21,4,12,Mexico,Campeche,Empleo y educacion
+430,21,4,12,Mexico,Campeche,Empleo y educacion
+431,21,4,12,Mexico,Campeche,Empleo y educacion
+432,21,4,12,Mexico,Campeche,Empleo y educacion
+433,21,32,12,Mexico,Zacatecas,Empleo y educacion
+434,21,32,12,Mexico,Zacatecas,Empleo y educacion
+435,21,32,12,Mexico,Zacatecas,Empleo y educacion
+436,21,32,12,Mexico,Zacatecas,Empleo y educacion
+437,21,32,12,Mexico,Zacatecas,Empleo y educacion
+438,21,29,12,Mexico,Tlaxcala,Empleo y educacion
+439,21,29,12,Mexico,Tlaxcala,Empleo y educacion
+440,21,29,12,Mexico,Tlaxcala,Empleo y educacion
+441,21,29,12,Mexico,Tlaxcala,Empleo y educacion
+442,21,28,12,Mexico,Tamaulipas,Empleo y educacion
+443,21,28,12,Mexico,Tamaulipas,Empleo y educacion
+444,21,28,12,Mexico,Tamaulipas,Empleo y educacion
+445,21,32,13,Mexico,Zacatecas,Empresas y industrias
+446,21,32,13,Mexico,Zacatecas,Empresas y industrias
+447,21,32,13,Mexico,Zacatecas,Empresas y industrias
+448,21,32,13,Mexico,Zacatecas,Empresas y industrias
+449,21,32,13,Mexico,Zacatecas,Empresas y industrias
+450,21,32,13,Mexico,Zacatecas,Empresas y industrias
+451,21,32,13,Mexico,Zacatecas,Empresas y industrias
+452,21,32,13,Mexico,Zacatecas,Empresas y industrias
+453,21,32,13,Mexico,Zacatecas,Empresas y industrias
+454,21,32,13,Mexico,Zacatecas,Empresas y industrias
+455,21,4,13,Mexico,Campeche,Empresas y industrias
+456,21,4,13,Mexico,Campeche,Empresas y industrias
+457,21,4,13,Mexico,Campeche,Empresas y industrias
+458,21,4,13,Mexico,Campeche,Empresas y industrias
+459,21,4,13,Mexico,Campeche,Empresas y industrias
+460,21,4,13,Mexico,Campeche,Empresas y industrias
+461,21,4,13,Mexico,Campeche,Empresas y industrias
+462,21,4,13,Mexico,Campeche,Empresas y industrias
+463,21,4,13,Mexico,Campeche,Empresas y industrias
+464,21,10,13,Mexico,Durango,Empresas y industrias
+465,21,10,13,Mexico,Durango,Empresas y industrias
+466,21,10,13,Mexico,Durango,Empresas y industrias
+467,21,10,13,Mexico,Durango,Empresas y industrias
+468,21,10,13,Mexico,Durango,Empresas y industrias
+469,21,10,13,Mexico,Durango,Empresas y industrias
+470,21,10,13,Mexico,Durango,Empresas y industrias
+471,21,10,13,Mexico,Durango,Empresas y industrias
+472,21,10,13,Mexico,Durango,Empresas y industrias
+473,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+474,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+475,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+476,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+477,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+478,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+479,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+480,21,29,13,Mexico,Tlaxcala,Empresas y industrias
+481,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+482,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+483,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+484,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+485,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+486,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+487,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+488,21,23,13,Mexico,Quintana Roo,Empresas y industrias
+489,21,18,14,Mexico,Nayarit,Finanzas
+490,21,18,14,Mexico,Nayarit,Finanzas
+491,21,18,14,Mexico,Nayarit,Finanzas
+492,21,18,14,Mexico,Nayarit,Finanzas
+493,21,18,14,Mexico,Nayarit,Finanzas
+494,21,18,14,Mexico,Nayarit,Finanzas
+495,21,18,14,Mexico,Nayarit,Finanzas
+496,21,18,14,Mexico,Nayarit,Finanzas
+497,21,18,14,Mexico,Nayarit,Finanzas
+498,21,18,14,Mexico,Nayarit,Finanzas
+499,21,9,14,Mexico,Colima,Finanzas
+500,21,9,14,Mexico,Colima,Finanzas
+501,21,9,14,Mexico,Colima,Finanzas
+502,21,9,14,Mexico,Colima,Finanzas
+503,21,9,14,Mexico,Colima,Finanzas
+504,21,9,14,Mexico,Colima,Finanzas
+506,21,9,14,Mexico,Colima,Finanzas
+507,21,3,14,Mexico,Baja California Sur,Finanzas
+508,21,3,14,Mexico,Baja California Sur,Finanzas
+509,21,3,14,Mexico,Baja California Sur,Finanzas
+510,21,3,14,Mexico,Baja California Sur,Finanzas
+511,21,3,14,Mexico,Baja California Sur,Finanzas
+512,21,3,14,Mexico,Baja California Sur,Finanzas
+513,21,20,14,Mexico,Oaxaca,Finanzas
+514,21,20,14,Mexico,Oaxaca,Finanzas
+515,21,20,14,Mexico,Oaxaca,Finanzas
+516,21,20,14,Mexico,Oaxaca,Finanzas
+517,21,20,14,Mexico,Oaxaca,Finanzas
+518,21,23,14,Mexico,Quintana Roo,Finanzas
+519,21,23,14,Mexico,Quintana Roo,Finanzas
+520,21,23,14,Mexico,Quintana Roo,Finanzas
+521,21,23,14,Mexico,Quintana Roo,Finanzas
+522,21,23,14,Mexico,Quintana Roo,Finanzas
+523,21,9,15,Mexico,Colima,Gente y Sociedad
+524,21,9,15,Mexico,Colima,Gente y Sociedad
+525,21,9,15,Mexico,Colima,Gente y Sociedad
+526,21,9,15,Mexico,Colima,Gente y Sociedad
+527,21,9,15,Mexico,Colima,Gente y Sociedad
+528,21,9,15,Mexico,Colima,Gente y Sociedad
+529,21,9,15,Mexico,Colima,Gente y Sociedad
+530,21,9,15,Mexico,Colima,Gente y Sociedad
+531,21,9,15,Mexico,Colima,Gente y Sociedad
+532,21,9,15,Mexico,Colima,Gente y Sociedad
+533,21,4,15,Mexico,Campeche,Gente y Sociedad
+534,21,4,15,Mexico,Campeche,Gente y Sociedad
+535,21,4,15,Mexico,Campeche,Gente y Sociedad
+536,21,4,15,Mexico,Campeche,Gente y Sociedad
+537,21,4,15,Mexico,Campeche,Gente y Sociedad
+538,21,4,15,Mexico,Campeche,Gente y Sociedad
+539,21,4,15,Mexico,Campeche,Gente y Sociedad
+540,21,4,15,Mexico,Campeche,Gente y Sociedad
+541,21,4,15,Mexico,Campeche,Gente y Sociedad
+542,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+543,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+544,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+545,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+546,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+547,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+548,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+549,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+550,21,24,15,Mexico,San Luis Potosi,Gente y Sociedad
+551,21,10,15,Mexico,Durango,Gente y Sociedad
+552,21,10,15,Mexico,Durango,Gente y Sociedad
+553,21,10,15,Mexico,Durango,Gente y Sociedad
+554,21,10,15,Mexico,Durango,Gente y Sociedad
+555,21,10,15,Mexico,Durango,Gente y Sociedad
+556,21,10,15,Mexico,Durango,Gente y Sociedad
+557,21,10,15,Mexico,Durango,Gente y Sociedad
+558,21,10,15,Mexico,Durango,Gente y Sociedad
+559,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+560,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+561,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+562,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+563,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+564,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+565,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+566,21,1,15,Mexico,Aguascalientes,Gente y Sociedad
+567,21,4,16,Mexico,Campeche,Google Noticias
+568,21,4,16,Mexico,Campeche,Google Noticias
+569,21,4,16,Mexico,Campeche,Google Noticias
+570,21,4,16,Mexico,Campeche,Google Noticias
+571,21,4,16,Mexico,Campeche,Google Noticias
+572,21,4,16,Mexico,Campeche,Google Noticias
+573,21,4,16,Mexico,Campeche,Google Noticias
+574,21,4,16,Mexico,Campeche,Google Noticias
+575,21,4,16,Mexico,Campeche,Google Noticias
+576,21,4,16,Mexico,Campeche,Google Noticias
+577,21,24,16,Mexico,San Luis Potosi,Google Noticias
+578,21,24,16,Mexico,San Luis Potosi,Google Noticias
+579,21,24,16,Mexico,San Luis Potosi,Google Noticias
+580,21,24,16,Mexico,San Luis Potosi,Google Noticias
+581,21,24,16,Mexico,San Luis Potosi,Google Noticias
+582,21,24,16,Mexico,San Luis Potosi,Google Noticias
+583,21,24,16,Mexico,San Luis Potosi,Google Noticias
+584,21,24,16,Mexico,San Luis Potosi,Google Noticias
+585,21,24,16,Mexico,San Luis Potosi,Google Noticias
+586,21,5,16,Mexico,Chiapas,Google Noticias
+587,21,5,16,Mexico,Chiapas,Google Noticias
+588,21,5,16,Mexico,Chiapas,Google Noticias
+589,21,5,16,Mexico,Chiapas,Google Noticias
+590,21,5,16,Mexico,Chiapas,Google Noticias
+591,21,5,16,Mexico,Chiapas,Google Noticias
+592,21,5,16,Mexico,Chiapas,Google Noticias
+593,21,5,16,Mexico,Chiapas,Google Noticias
+594,21,20,16,Mexico,Oaxaca,Google Noticias
+595,21,20,16,Mexico,Oaxaca,Google Noticias
+596,21,20,16,Mexico,Oaxaca,Google Noticias
+597,21,20,16,Mexico,Oaxaca,Google Noticias
+598,21,20,16,Mexico,Oaxaca,Google Noticias
+599,21,20,16,Mexico,Oaxaca,Google Noticias
+600,21,28,16,Mexico,Tamaulipas,Google Noticias
+601,21,28,16,Mexico,Tamaulipas,Google Noticias
+602,21,28,16,Mexico,Tamaulipas,Google Noticias
+603,21,28,16,Mexico,Tamaulipas,Google Noticias
+604,21,28,16,Mexico,Tamaulipas,Google Noticias
+605,21,4,17,Mexico,Campeche,Informatica y Electronica
+606,21,4,17,Mexico,Campeche,Informatica y Electronica
+607,21,4,17,Mexico,Campeche,Informatica y Electronica
+608,21,4,17,Mexico,Campeche,Informatica y Electronica
+609,21,4,17,Mexico,Campeche,Informatica y Electronica
+610,21,4,17,Mexico,Campeche,Informatica y Electronica
+611,21,4,17,Mexico,Campeche,Informatica y Electronica
+612,21,4,17,Mexico,Campeche,Informatica y Electronica
+613,21,4,17,Mexico,Campeche,Informatica y Electronica
+614,21,4,17,Mexico,Campeche,Informatica y Electronica
+615,21,27,17,Mexico,Tabasco,Informatica y Electronica
+616,21,27,17,Mexico,Tabasco,Informatica y Electronica
+617,21,27,17,Mexico,Tabasco,Informatica y Electronica
+618,21,27,17,Mexico,Tabasco,Informatica y Electronica
+619,21,27,17,Mexico,Tabasco,Informatica y Electronica
+620,21,27,17,Mexico,Tabasco,Informatica y Electronica
+621,21,27,17,Mexico,Tabasco,Informatica y Electronica
+622,21,27,17,Mexico,Tabasco,Informatica y Electronica
+623,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+624,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+625,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+626,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+627,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+628,21,24,17,Mexico,San Luis Potosi,Informatica y Electronica
+629,21,5,17,Mexico,Chiapas,Informatica y Electronica
+630,21,5,17,Mexico,Chiapas,Informatica y Electronica
+631,21,5,17,Mexico,Chiapas,Informatica y Electronica
+632,21,5,17,Mexico,Chiapas,Informatica y Electronica
+633,21,5,17,Mexico,Chiapas,Informatica y Electronica
+634,21,1,17,Mexico,Aguascalientes,Informatica y Electronica
+635,21,1,17,Mexico,Aguascalientes,Informatica y Electronica
+636,21,1,17,Mexico,Aguascalientes,Informatica y Electronica
+637,21,1,17,Mexico,Aguascalientes,Informatica y Electronica
+638,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+639,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+640,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+641,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+642,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+643,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+644,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+645,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+646,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+647,21,32,18,Mexico,Zacatecas,Internet y telecomunicaciones
+648,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+649,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+650,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+651,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+652,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+653,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+654,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+655,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+656,21,5,18,Mexico,Chiapas,Internet y telecomunicaciones
+657,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+658,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+659,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+660,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+661,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+662,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+663,21,17,18,Mexico,Morelos,Internet y telecomunicaciones
+664,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+665,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+666,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+667,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+668,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+669,21,12,18,Mexico,Guanajuato,Internet y telecomunicaciones
+670,21,2,18,Mexico,Baja California,Internet y telecomunicaciones
+671,21,2,18,Mexico,Baja California,Internet y telecomunicaciones
+672,21,2,18,Mexico,Baja California,Internet y telecomunicaciones
+673,21,2,18,Mexico,Baja California,Internet y telecomunicaciones
+674,21,2,18,Mexico,Baja California,Internet y telecomunicaciones
+675,21,32,19,Mexico,Zacatecas,Juegos
+676,21,32,19,Mexico,Zacatecas,Juegos
+677,21,32,19,Mexico,Zacatecas,Juegos
+678,21,32,19,Mexico,Zacatecas,Juegos
+679,21,32,19,Mexico,Zacatecas,Juegos
+680,21,32,19,Mexico,Zacatecas,Juegos
+681,21,32,19,Mexico,Zacatecas,Juegos
+682,21,32,19,Mexico,Zacatecas,Juegos
+683,21,32,19,Mexico,Zacatecas,Juegos
+684,21,32,19,Mexico,Zacatecas,Juegos
+685,21,28,19,Mexico,Tamaulipas,Juegos
+686,21,28,19,Mexico,Tamaulipas,Juegos
+687,21,28,19,Mexico,Tamaulipas,Juegos
+688,21,28,19,Mexico,Tamaulipas,Juegos
+689,21,28,19,Mexico,Tamaulipas,Juegos
+690,21,28,19,Mexico,Tamaulipas,Juegos
+691,21,28,19,Mexico,Tamaulipas,Juegos
+692,21,28,19,Mexico,Tamaulipas,Juegos
+693,21,28,19,Mexico,Tamaulipas,Juegos
+694,21,24,19,Mexico,San Luis Potosi,Juegos
+695,21,24,19,Mexico,San Luis Potosi,Juegos
+696,21,24,19,Mexico,San Luis Potosi,Juegos
+697,21,24,19,Mexico,San Luis Potosi,Juegos
+698,21,24,19,Mexico,San Luis Potosi,Juegos
+699,21,24,19,Mexico,San Luis Potosi,Juegos
+700,21,24,19,Mexico,San Luis Potosi,Juegos
+701,21,24,19,Mexico,San Luis Potosi,Juegos
+702,21,24,19,Mexico,San Luis Potosi,Juegos
+703,21,10,19,Mexico,Durango,Juegos
+704,21,10,19,Mexico,Durango,Juegos
+705,21,10,19,Mexico,Durango,Juegos
+706,21,10,19,Mexico,Durango,Juegos
+707,21,10,19,Mexico,Durango,Juegos
+708,21,10,19,Mexico,Durango,Juegos
+709,21,10,19,Mexico,Durango,Juegos
+710,21,31,19,Mexico,Yucatan,Juegos
+711,21,31,19,Mexico,Yucatan,Juegos
+712,21,31,19,Mexico,Yucatan,Juegos
+713,21,31,19,Mexico,Yucatan,Juegos
+714,21,31,19,Mexico,Yucatan,Juegos
+715,21,31,19,Mexico,Yucatan,Juegos
+716,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+717,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+718,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+719,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+720,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+721,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+722,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+723,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+724,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+725,21,28,20,Mexico,Tamaulipas,Ley de Gobierno
+726,21,10,20,Mexico,Durango,Ley de Gobierno
+727,21,10,20,Mexico,Durango,Ley de Gobierno
+728,21,10,20,Mexico,Durango,Ley de Gobierno
+729,21,10,20,Mexico,Durango,Ley de Gobierno
+730,21,10,20,Mexico,Durango,Ley de Gobierno
+731,21,10,20,Mexico,Durango,Ley de Gobierno
+732,21,10,20,Mexico,Durango,Ley de Gobierno
+733,21,10,20,Mexico,Durango,Ley de Gobierno
+734,21,10,20,Mexico,Durango,Ley de Gobierno
+735,21,4,20,Mexico,Campeche,Ley de Gobierno
+736,21,4,20,Mexico,Campeche,Ley de Gobierno
+737,21,4,20,Mexico,Campeche,Ley de Gobierno
+738,21,4,20,Mexico,Campeche,Ley de Gobierno
+739,21,4,20,Mexico,Campeche,Ley de Gobierno
+740,21,4,20,Mexico,Campeche,Ley de Gobierno
+741,21,4,20,Mexico,Campeche,Ley de Gobierno
+742,21,4,20,Mexico,Campeche,Ley de Gobierno
+743,21,27,20,Mexico,Tabasco,Ley de Gobierno
+744,21,27,20,Mexico,Tabasco,Ley de Gobierno
+745,21,27,20,Mexico,Tabasco,Ley de Gobierno
+746,21,27,20,Mexico,Tabasco,Ley de Gobierno
+747,21,27,20,Mexico,Tabasco,Ley de Gobierno
+748,21,27,20,Mexico,Tabasco,Ley de Gobierno
+749,21,3,20,Mexico,Baja California Sur,Ley de Gobierno
+750,21,3,20,Mexico,Baja California Sur,Ley de Gobierno
+751,21,3,20,Mexico,Baja California Sur,Ley de Gobierno
+752,21,3,20,Mexico,Baja California Sur,Ley de Gobierno
+753,21,3,20,Mexico,Baja California Sur,Ley de Gobierno
+754,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+755,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+756,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+757,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+758,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+759,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+760,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+761,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+762,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+763,21,29,21,Mexico,Tlaxcala,Libros y Literatura
+764,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+765,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+766,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+767,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+768,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+769,21,3,21,Mexico,Baja California Sur,Libros y Literatura
+770,21,5,21,Mexico,Chiapas,Libros y Literatura
+771,21,5,21,Mexico,Chiapas,Libros y Literatura
+772,21,5,21,Mexico,Chiapas,Libros y Literatura
+773,21,5,21,Mexico,Chiapas,Libros y Literatura
+774,21,5,21,Mexico,Chiapas,Libros y Literatura
+775,21,1,21,Mexico,Aguascalientes,Libros y Literatura
+776,21,1,21,Mexico,Aguascalientes,Libros y Literatura
+777,21,1,21,Mexico,Aguascalientes,Libros y Literatura
+778,21,1,21,Mexico,Aguascalientes,Libros y Literatura
+779,21,17,21,Mexico,Morelos,Libros y Literatura
+780,21,17,21,Mexico,Morelos,Libros y Literatura
+781,21,17,21,Mexico,Morelos,Libros y Literatura
+782,21,17,21,Mexico,Morelos,Libros y Literatura
+783,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+784,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+785,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+786,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+787,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+788,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+789,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+790,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+791,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+792,21,32,22,Mexico,Zacatecas,Mercado inmobiliario
+793,21,4,22,Mexico,Campeche,Mercado inmobiliario
+794,21,4,22,Mexico,Campeche,Mercado inmobiliario
+795,21,4,22,Mexico,Campeche,Mercado inmobiliario
+796,21,4,22,Mexico,Campeche,Mercado inmobiliario
+797,21,4,22,Mexico,Campeche,Mercado inmobiliario
+798,21,4,22,Mexico,Campeche,Mercado inmobiliario
+799,21,4,22,Mexico,Campeche,Mercado inmobiliario
+800,21,4,22,Mexico,Campeche,Mercado inmobiliario
+801,21,4,22,Mexico,Campeche,Mercado inmobiliario
+802,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+803,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+804,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+805,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+806,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+807,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+808,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+809,21,27,22,Mexico,Tabasco,Mercado inmobiliario
+810,21,17,22,Mexico,Morelos,Mercado inmobiliario
+811,21,17,22,Mexico,Morelos,Mercado inmobiliario
+812,21,17,22,Mexico,Morelos,Mercado inmobiliario
+813,21,17,22,Mexico,Morelos,Mercado inmobiliario
+814,21,17,22,Mexico,Morelos,Mercado inmobiliario
+815,21,17,22,Mexico,Morelos,Mercado inmobiliario
+816,21,18,22,Mexico,Nayarit,Mercado inmobiliario
+817,21,18,22,Mexico,Nayarit,Mercado inmobiliario
+818,21,18,22,Mexico,Nayarit,Mercado inmobiliario
+819,21,18,22,Mexico,Nayarit,Mercado inmobiliario
+820,21,18,22,Mexico,Nayarit,Mercado inmobiliario
+821,21,4,23,Mexico,Campeche,Referencia
+822,21,4,23,Mexico,Campeche,Referencia
+823,21,4,23,Mexico,Campeche,Referencia
+824,21,4,23,Mexico,Campeche,Referencia
+825,21,4,23,Mexico,Campeche,Referencia
+826,21,4,23,Mexico,Campeche,Referencia
+827,21,4,23,Mexico,Campeche,Referencia
+828,21,4,23,Mexico,Campeche,Referencia
+829,21,4,23,Mexico,Campeche,Referencia
+830,21,4,23,Mexico,Campeche,Referencia
+831,21,9,23,Mexico,Colima,Referencia
+832,21,9,23,Mexico,Colima,Referencia
+833,21,9,23,Mexico,Colima,Referencia
+834,21,9,23,Mexico,Colima,Referencia
+835,21,9,23,Mexico,Colima,Referencia
+836,21,9,23,Mexico,Colima,Referencia
+837,21,9,23,Mexico,Colima,Referencia
+838,21,9,23,Mexico,Colima,Referencia
+839,21,9,23,Mexico,Colima,Referencia
+840,21,27,23,Mexico,Tabasco,Referencia
+841,21,27,23,Mexico,Tabasco,Referencia
+842,21,27,23,Mexico,Tabasco,Referencia
+843,21,27,23,Mexico,Tabasco,Referencia
+844,21,27,23,Mexico,Tabasco,Referencia
+845,21,31,23,Mexico,Yucatan,Referencia
+846,21,31,23,Mexico,Yucatan,Referencia
+847,21,31,23,Mexico,Yucatan,Referencia
+848,21,31,23,Mexico,Yucatan,Referencia
+849,21,5,23,Mexico,Chiapas,Referencia
+850,21,5,23,Mexico,Chiapas,Referencia
+851,21,5,23,Mexico,Chiapas,Referencia
+852,21,5,23,Mexico,Chiapas,Referencia
+853,21,3,24,Mexico,Baja California Sur,Salud
+854,21,3,24,Mexico,Baja California Sur,Salud
+855,21,3,24,Mexico,Baja California Sur,Salud
+856,21,3,24,Mexico,Baja California Sur,Salud
+857,21,3,24,Mexico,Baja California Sur,Salud
+858,21,3,24,Mexico,Baja California Sur,Salud
+859,21,3,24,Mexico,Baja California Sur,Salud
+860,21,3,24,Mexico,Baja California Sur,Salud
+861,21,3,24,Mexico,Baja California Sur,Salud
+862,21,3,24,Mexico,Baja California Sur,Salud
+863,21,16,24,Mexico,Michoacan,Salud
+864,21,16,24,Mexico,Michoacan,Salud
+865,21,16,24,Mexico,Michoacan,Salud
+866,21,16,24,Mexico,Michoacan,Salud
+867,21,16,24,Mexico,Michoacan,Salud
+868,21,16,24,Mexico,Michoacan,Salud
+869,21,16,24,Mexico,Michoacan,Salud
+870,21,16,24,Mexico,Michoacan,Salud
+871,21,16,24,Mexico,Michoacan,Salud
+872,21,28,24,Mexico,Tamaulipas,Salud
+873,21,28,24,Mexico,Tamaulipas,Salud
+874,21,28,24,Mexico,Tamaulipas,Salud
+875,21,28,24,Mexico,Tamaulipas,Salud
+876,21,28,24,Mexico,Tamaulipas,Salud
+877,21,28,24,Mexico,Tamaulipas,Salud
+878,21,28,24,Mexico,Tamaulipas,Salud
+879,21,31,24,Mexico,Yucatan,Salud
+880,21,31,24,Mexico,Yucatan,Salud
+881,21,31,24,Mexico,Yucatan,Salud
+882,21,31,24,Mexico,Yucatan,Salud
+883,21,31,24,Mexico,Yucatan,Salud
+884,21,31,24,Mexico,Yucatan,Salud
+885,21,29,24,Mexico,Tlaxcala,Salud
+886,21,29,24,Mexico,Tlaxcala,Salud
+887,21,29,24,Mexico,Tlaxcala,Salud
+888,21,29,24,Mexico,Tlaxcala,Salud
+889,21,29,24,Mexico,Tlaxcala,Salud
+890,21,29,24,Mexico,Tlaxcala,Salud
+891,21,4,25,Mexico,Campeche,Viajes
+892,21,4,25,Mexico,Campeche,Viajes
+893,21,4,25,Mexico,Campeche,Viajes
+894,21,4,25,Mexico,Campeche,Viajes
+895,21,4,25,Mexico,Campeche,Viajes
+896,21,4,25,Mexico,Campeche,Viajes
+897,21,4,25,Mexico,Campeche,Viajes
+898,21,4,25,Mexico,Campeche,Viajes
+899,21,4,25,Mexico,Campeche,Viajes
+900,21,4,25,Mexico,Campeche,Viajes
+901,21,23,25,Mexico,Quintana Roo,Viajes
+902,21,23,25,Mexico,Quintana Roo,Viajes
+903,21,23,25,Mexico,Quintana Roo,Viajes
+904,21,23,25,Mexico,Quintana Roo,Viajes
+905,21,23,25,Mexico,Quintana Roo,Viajes
+906,21,27,25,Mexico,Tabasco,Viajes
+907,21,27,25,Mexico,Tabasco,Viajes
+908,21,27,25,Mexico,Tabasco,Viajes
+909,21,27,25,Mexico,Tabasco,Viajes
+910,21,3,25,Mexico,Baja California Sur,Viajes
+911,21,3,25,Mexico,Baja California Sur,Viajes
+912,21,3,25,Mexico,Baja California Sur,Viajes
+913,21,31,25,Mexico,Yucatan,Viajes
+914,21,31,25,Mexico,Yucatan,Viajes
+915,21,31,25,Mexico,Yucatan,Viajes
