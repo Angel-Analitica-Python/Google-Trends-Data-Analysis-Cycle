@@ -4,4 +4,4 @@ Para lograrlo, la empresa está analizando las búsquedas con un alto porcentaje
 
 Origen de Datos:https://trends.google.com/trends/explore?q=%2Fm%2F03p1r4&date=all
 
-Google Colab:https://colab.research.google.com/drive/1rA564l9RBcTurT9oI7bgxO9sDZjm47AA
+Google Colab:https://colab.research.google.com/drive/1il53KhqY00WC17lVTS-RzbIfEvKcpA80#scrollTo=-giWSDOjFtio
